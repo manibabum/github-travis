@@ -16,3 +16,23 @@ D:\Dropbox\Samples\MVC\HelloWorld\HelloWorld\bin\System.Web.Mvc.xml
 D:\Dropbox\Samples\MVC\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 D:\Dropbox\Samples\MVC\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
 D:\Dropbox\Samples\MVC\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\HelloWorld.dll.config
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\HelloWorld.dll
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\HelloWorld.pdb
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Helpers.dll
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Mvc.dll
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Razor.dll
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Webpages.dll
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Razor.xml
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Webpages.xml
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Helpers.xml
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\bin\System.Web.Mvc.xml
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\Mani.Muddapu\Desktop\New folder\github-travis\HelloWorld\obj\Debug\HelloWorld.pdb
