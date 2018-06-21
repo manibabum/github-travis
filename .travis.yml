@@ -1,5 +1,6 @@
 language: csharp
-mono: none
+install:
+  - sudo apt-get install mono-devel mono-gmcs nunit-console
 dotnet: 2.0.0
 script:
   - dotnet restore
