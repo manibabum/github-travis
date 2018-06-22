@@ -1,0 +1,239 @@
+{
+  "locked": false,
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.6": {
+      "MicroBuild.Core/0.2.0": {
+        "type": "package"
+      },
+      "Microsoft.Portable.Targets/0.1.1-dev": {
+        "type": "package",
+        "contentFiles": {
+          "contentFiles/any/any/Extensions/Microsoft/Portable/Microsoft.Portable.Core.props": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/Microsoft.Portable.Core.props"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/Microsoft.Portable.Core.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/Microsoft.Portable.Core.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.CSharp.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.CSharp.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.Common.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.Common.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.VisualBasic.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.VisualBasic.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.CSharp.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.CSharp.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.Common.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.Common.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.VisualBasic.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.VisualBasic.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.CSharp.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.CSharp.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.Common.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.Common.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.VisualBasic.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.VisualBasic.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.CSharp.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.CSharp.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.Common.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.Common.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.VisualBasic.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.VisualBasic.targets"
+          }
+        }
+      }
+    },
+    "DNXCore,Version=v5.0": {
+      "MicroBuild.Core/0.2.0": {
+        "type": "package"
+      },
+      "Microsoft.Portable.Targets/0.1.1-dev": {
+        "type": "package",
+        "contentFiles": {
+          "contentFiles/any/any/Extensions/Microsoft/Portable/Microsoft.Portable.Core.props": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/Microsoft.Portable.Core.props"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/Microsoft.Portable.Core.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/Microsoft.Portable.Core.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.CSharp.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.CSharp.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.Common.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.Common.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.VisualBasic.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.VisualBasic.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.CSharp.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.CSharp.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.Common.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.Common.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.VisualBasic.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.VisualBasic.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.CSharp.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.CSharp.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.Common.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.Common.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.VisualBasic.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.VisualBasic.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.CSharp.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.CSharp.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.Common.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.Common.targets"
+          },
+          "contentFiles/any/any/Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.VisualBasic.targets": {
+            "buildAction": "None",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.VisualBasic.targets"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MicroBuild.Core/0.2.0": {
+      "sha512": "UU0glyD/p+hIrgMdA6nYw5NhdhsYxaKTc3/N9sGEPZZi63wuB3dlB1AAbFBBtVjj9jZ9UijaBnUslNWKM1xDxA==",
+      "type": "package",
+      "files": [
+        "MicroBuild.Core.0.2.0.nupkg.sha512",
+        "MicroBuild.Core.nuspec",
+        "build/MicroBuild.Core.props",
+        "build/MicroBuild.Core.targets",
+        "build/MicroBuild.Plugin.props"
+      ]
+    },
+    "Microsoft.Portable.Targets/0.1.1-dev": {
+      "sha512": "KZHaoVc+9ADACLnt2y9BVPRdqX8x/ALDHGzAL0qSvwe8c3c5N5rTSMOU/9XGK38psUIYhrKZ0kiJ8MxJLZw2mA==",
+      "type": "package",
+      "files": [
+        "Microsoft.Portable.Targets.0.1.1-dev.nupkg.sha512",
+        "Microsoft.Portable.Targets.nuspec",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/Microsoft.Portable.Core.props",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/Microsoft.Portable.Core.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.CSharp.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.Common.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v4.0/Microsoft.Portable.VisualBasic.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.CSharp.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.Common.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v4.5/Microsoft.Portable.VisualBasic.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.CSharp.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.Common.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v4.6/Microsoft.Portable.VisualBasic.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.CSharp.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.Common.targets",
+        "contentFiles/any/any/Extensions/Microsoft/Portable/v5.0/Microsoft.Portable.VisualBasic.targets"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [
+      "MicroBuild.Core >= 0.2.0",
+      "Microsoft.Portable.Targets >= 0.1.1-dev"
+    ],
+    ".NETFramework,Version=v4.6": [],
+    "DNXCore,Version=v5.0": []
+  },
+  "tools": {},
+  "projectFileToolGroups": {}
+}

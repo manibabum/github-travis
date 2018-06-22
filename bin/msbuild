@@ -1,0 +1,2 @@
+#!/bin/bash
+msbuild-$TRAVIS_MSBUILD_MODE "$@"

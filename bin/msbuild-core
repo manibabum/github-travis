@@ -1,0 +1,2 @@
+#!/bin/bash
+"$TRAVIS_MSBUILD"/msbuild/corerun "$TRAVIS_MSBUILD"/msbuild/MSBuild.exe /p:TravisCore=true "$@"

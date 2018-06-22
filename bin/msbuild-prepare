@@ -1,0 +1,25 @@
+#!/bin/bash
+chmod a+x "$TRAVIS_MSBUILD_BIN"/*
+
+echo 'Checking for dependencies.'
+if [ $(dpkg-query -W -f='${Status}' libunwind8 2>/dev/null | grep -c "ok installed") -eq 0 ]; then
+	echo 'Installing libunwind8 (Travis CI trusty image update doesn'\''t contain it by default anymore).'
+	echo 'Please install it via your own .travis.yml!'
+	export DEBIAN_FRONTEND=noninteractive
+	sudo -E apt-get -yq update &>> ~/apt-get-update.log
+	sudo -E apt-get -yq --no-install-suggests --no-install-recommends --force-yes install libunwind8
+	echo 'libunwind8 installed!'
+else
+	echo 'libunwind8 already installed.'
+fi
+
+pushd "$TRAVIS_MSBUILD"
+if [ -f 'msbuild/MSBuild.exe' ]; then
+	echo 'MSBuild already existing.'
+else
+	echo 'Unzipping MSBuild.'
+	unzip -q msbuild.zip
+	echo 'Done!'
+fi
+popd
+
